@@ -1,4 +1,5 @@
 📈 Stock Price Prediction with LSTM (NVDA Case Study)
+![Prediction Result](result.png)
 This project is a Deep Learning application designed to predict future price trends for NVIDIA (NVDA) stock. It utilizes the LSTM (Long Short-Term Memory) architecture, a specialized type of Recurrent Neural Network (RNN) capable of learning long-term dependencies in time-series data.
 
 🚀 Project Overview
