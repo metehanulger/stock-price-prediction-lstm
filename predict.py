@@ -10,7 +10,7 @@ import random
 import os
 from datetime import timedelta
 
-# --- 1. AYARLAR ---
+
 os.environ['PYTHONHASHSEED'] = '0'
 np.random.seed(42)
 random.seed(42)
@@ -132,5 +132,6 @@ fig.update_layout(
 )
 
 fig.show()
+
 
 print(f"\n21. Günün Tahmini: {gelecek_fiyatlar[-1]:.2f} $")
